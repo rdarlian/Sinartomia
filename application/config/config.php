@@ -117,7 +117,7 @@ $config['enable_hooks'] = FALSE;
 |
 */
 $config['subclass_prefix'] = 'MY_';
-
+$config['composer_autoload'] =  "vendor/autoload.php";
 /*
 |--------------------------------------------------------------------------
 | Composer auto-loading
