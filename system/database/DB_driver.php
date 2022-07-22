@@ -93,7 +93,7 @@ abstract class CI_DB_driver {
 	 *
 	 * @var	string
 	 */
-	public $dbdriver		= 'postgres';
+	public $dbdriver		= 'postgresql';
 
 	/**
 	 * Sub-driver
